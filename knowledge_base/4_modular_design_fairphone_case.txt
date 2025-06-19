@@ -1,0 +1,22 @@
+MODULAR DESIGN CASE STUDY – FAIRPHONE 4
+
+DEVICE OVERVIEW
+• Launch: Oct‑2021; first 5G modular smartphone.
+• Architecture: 8 easily replaceable modules (display, cameras, USB‑C port, battery, etc.) fastened by Phillips screws – no glue.
+
+LCA INSIGHTS (Fraunhofer IZM 2022)
+• Baseline cradle‑to‑grave carbon footprint: 70 kg CO₂‑eq (6 GB/128 GB version).
+• Extending device lifetime from global avg. 2.7 yrs to 5 yrs ↓ footprint by 31 %.
+• Battery replacement once at 2.5 yrs yields additional 8 % reduction vs buying new.
+
+MATERIAL FAIRNESS
+• Fairtrade gold in supply chain since FP3; FP4 adds Fair Cobalt Alliance participation.
+• 100 % recycled tin, rare‑earth magnets and tungsten in key components.
+
+REPAIR ECONOMICS
+• Display swap ≈ 90 s / €79; battery swap ≈ 20 s / €29.
+• iFixit repairability score 10/10 – highest in industry.
+
+ECOSYSTEM IMPACT
+• Influenced EU Right‑to‑Repair debate; cited by French Repairability Index methodology.
+• Demonstrates commercial viability of modular, repairable design.

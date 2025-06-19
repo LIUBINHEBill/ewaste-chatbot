@@ -1,0 +1,21 @@
+HEALTH & ENVIRONMENTAL IMPACTS OF INFORMAL E‑WASTE RECYCLING
+
+CHILDREN AS A CRITICAL GROUP
+• WHO identifies more than 18 million children and 12 million women in low‑income countries engaged in informal e‑waste recycling.
+• Prenatal exposure to lead, cadmium and PBDEs linked with low birth weight, stillbirth, premature birth, and neuro‑developmental delays.
+• Elevated blood‑lead levels (>5 µg dL⁻¹) prevalent in children living near e‑waste sites in Guiyu (China), Agbogbloshie (Ghana) and Moradabad (India).
+
+KEY TOXICANTS
+• Metals – Lead (CRT glass, solder), mercury (switches, backlights), chromium VI (metal plating).
+• POPs – PBDE flame retardants, dioxins from open‑burning insulating plastics.
+• Acids – Hydrochloric & nitric used in “aqua‑regia” gold reclamation release toxic fumes.
+
+PATHWAYS
+1. Inhalation of fine particulate from burning cables and boards.
+2. Dermal absorption during acid leaching.
+3. Food‑chain: bio‑accumulation of heavy metals in rice grown in contaminated soils.
+
+POLICY/TECHNICAL RESPONSES
+• Shift to formal recycling with enclosures & negative‑pressure ventilation.
+• Ban open burning and acid‑leaching; promote hydrometallurgical closed‑loop processes.
+• Health surveillance and education programmes for local communities.

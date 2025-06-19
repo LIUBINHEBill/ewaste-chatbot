@@ -1,0 +1,21 @@
+cd Desktop
+cd study abroad
+cd Studying
+cd ewaste-chatbot
+
+.\.venv\Scripts\Activate
+
+streamlit run app.py
+
+
+“What is the current global formal e-waste recycling rate?”
+“Why is Fairphone considered a circular-economy example?”
+
+python utils/embed_build.py
+
+git init
+git add .
+git commit -m "initial commit"
+git branch -M main
+git remote add origin https://github.com/yourname/ewaste-chatbot.git
+git push -u origin main

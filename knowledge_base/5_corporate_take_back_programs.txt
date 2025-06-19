@@ -1,0 +1,20 @@
+CORPORATE TAKE‑BACK & RECYCLING PROGRAMMES
+
+DELL ASSET RECOVERY SERVICE (ARS)
+• Global service to retire multi‑vendor IT equipment; provides logistics, secure data wipe, resale & recycling.
+• 2023: processed 226 k tonnes of equipment, diverting 99 % from landfill.
+• Partnership with Goodwill (Dell Reconnect) has collected 1 billion+ pounds of e‑waste since 2004.
+
+APPLE TRADE‑IN & DAISY ROBOT
+• Trade‑In credits for iPhones, iPads, Macs; non‑eligible devices recycled free.
+• “Daisy” robotic disassembly line (Austin, TX) can dismantle 23 models of iPhone @ 200 devices hr⁻¹, recovering rare‑earth magnets, tungsten and gold with higher purity than shredding.
+• 2021: recovered 2.4 t of gold, saving ~\$120 M raw‑material cost.
+
+HP PLANET PARTNERS
+• Printer cartridge closed‑loop; over 1.6 billion cartridges recycled, 125 million apparel hangers diverted into new cartridges.
+• Targets 75 % circularity for PCs and printers by 2030.
+
+LESSONS FOR SCALING
+1. Integrate secure data‑wiping to increase enterprise participation.
+2. Public‑private collection partnerships (e.g., Dell‑Goodwill) build consumer trust.
+3. Robotics & AI vision systems increase yield vs manual disassembly.
